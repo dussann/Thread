@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Mechanisam
 {
-    class RegisterFunction
+    public class RegisterFunction
     {
         public static List<Action> lista = new List<Action>();
 
